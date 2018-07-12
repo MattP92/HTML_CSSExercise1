@@ -1,0 +1,39 @@
+body{
+    background-color: #d47677; 
+    margin: 50px;
+}
+
+form{
+    margin: auto;
+    top: 100px;
+    width: 300px; 
+    background-color: lightgrey;
+    padding: 25px; 
+}
+
+.header{
+    text-align: center; 
+    color: darkgrey;
+    font-size: 12px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: aqua; 
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+}
+
